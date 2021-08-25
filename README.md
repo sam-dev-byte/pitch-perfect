@@ -1,10 +1,10 @@
 # APP NAME
 
-## One Minute Pitch
+## One Minute perfect-Pitch
 
 # AUTHOR
 
-Kipngetich Ngeno
+GIFT KIPKEMBOI
 
 # DESCRIPTION
 
@@ -30,7 +30,7 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * Python3.6
 
 ## Installation steps 
-* $ git clone https://github.com/Kipngetich33/One-Minute-Pitch.git
+* $ git clone https://github.com/sam-dev-byte/pitch-perfectx.git
 * $ cd One-Minute-Pitch
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
@@ -62,7 +62,7 @@ In case You have any issues using this code please do no hesitate to get in touc
 
 * MIT License
 
-Copyright (c) 2017 Kipngetich Ngeno
+Copyright (c) 20121 GIFT KIPKEMBOI
 
 
 
@@ -84,4 +84,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*
 
-Copyright (c) 2017 ** [Kipngetich Ngeno](https://kipngetich33.github.io/ "Github Portfolio") ** 
