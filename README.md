@@ -56,13 +56,13 @@ This is an app that allows users to create,submit,vote pitches based on categori
 
 # Support and Contacts
 
-In case You have any issues using this code please do no hesitate to get in touch with me through khalifngeno@gmail.com or leave a commit here on github.
+In case You have any issues using this code please do no hesitate to get in touch with me through gmansesco@gmail.com leave a commit here on github.
 
 # License
 
 * MIT License
 
-Copyright (c) 20121 GIFT KIPKEMBOI
+Copyright (c) 2021 GIFT KIPKEMBOI
 
 
 
