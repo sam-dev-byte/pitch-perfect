@@ -1,4 +1,5 @@
 # APP NAME
+PITCH-PERFECT
 
 ## One Minute perfect-Pitch
 
@@ -31,7 +32,7 @@ This is an app that allows users to create,submit,vote pitches based on categori
 
 ## Installation steps 
 * $ git clone https://github.com/sam-dev-byte/pitch-perfectx.git
-* $ cd One-Minute-Pitch
+* $ cd pitch-perfect
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
 * $ ./start.sh 
@@ -41,9 +42,7 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * A user needs to sign up
 * A user the needs to sign in order to create,vote and post pitches 
 
-# CREDITS
 
-#### Moringa School, StackOverflow.com and W3 schools
 
 # Technologies Used
 
