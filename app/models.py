@@ -101,27 +101,7 @@ class Comment(db.Model):
         db.session.add(self)
         db.session.commit()
 
-    @classmethod
-    def clear_comments(cls):
-        Comment.all_comments.clear()
-
-    @classmethod
-    def get_comments(cls,id):
-        comments = Comment.query.filter_by(pitch_id=id).all()
-
-        return comments
-
-class Role(db.Model):
-    __tablename__ = 'roles'
-
-    id = db.Column(db.Integer,primary_key = True)
-    name = db.Column(db.String(255))
-    users = db.relationship('User',backref = 'role',lazy="dynamic") 
-
-    def __repr__(self):
-        return f'User {self.name}'  
-
-
+    
 class PitchCategory(db.Model):
     '''
     Function that defines different categories of pitches

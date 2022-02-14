@@ -31,7 +31,7 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * Python3.6
 
 ## Installation steps 
-* $ git clone https://github.com/sam-dev-byte/pitch-perfectx.git
+* $ git clone https://github.com/sam-dev-byte/pitch-perfect
 * $ cd pitch-perfect
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
@@ -61,7 +61,7 @@ In case You have any issues using this code please do no hesitate to get in touc
 
 * MIT License
 
-Copyright (c) 2021 GIFT KIPKEMBOI
+Copyright (c) 2022 GIFT KIPKEMBOI
 
 
 
